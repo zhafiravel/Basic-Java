@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java //ini aslinya ada ; tapi buat tugas, kita coba rusakin dulu
 
 public class Counter {
 
